@@ -1,0 +1,23 @@
+body {
+	background: #DDD;
+}
+
+.sidebar {
+	background: red;
+    width: 15%;
+    display: inline-block;
+    vertical-align: top;
+    position: fixed;
+}
+
+.main {
+    display: inline-block;
+    width: 80%;
+    margin-left: 20%;
+}
+
+.main .box {
+	height: 1000px;
+    background: #888;
+    margin: 5%;
+}
